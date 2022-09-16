@@ -1,7 +1,5 @@
 import pyautogui as pt
 import time
-import pytesseract
-
 
 limit = input("Enter limit : ")
 message =input("Enter message : ")
